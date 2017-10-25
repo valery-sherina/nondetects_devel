@@ -1,6 +1,7 @@
 CHANGES IN VERSION 1.99.1
 -------------------------
     o Added option for the batch effect.
+    o Change from glm to Bayesian glm 
     
 CHANGES IN VERSION 1.99.0
 -------------------------
